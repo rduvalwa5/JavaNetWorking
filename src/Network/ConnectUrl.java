@@ -2,6 +2,7 @@ package Network;
 import java.net.*;
 import java.io.*;
 
+
 public class ConnectUrl {
     public static void main(String[] args) throws Exception {
     	String site = "http://www.bbc.com";
